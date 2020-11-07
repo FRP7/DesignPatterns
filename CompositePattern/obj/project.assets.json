@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\CompositePattern\\CompositePattern\\CompositePattern.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\CompositePattern\\CompositePattern.csproj",
       "projectName": "CompositePattern",
-      "projectPath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\CompositePattern\\CompositePattern\\CompositePattern.csproj",
+      "projectPath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\CompositePattern\\CompositePattern.csproj",
       "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\CompositePattern\\CompositePattern\\obj\\",
+      "outputPath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\CompositePattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

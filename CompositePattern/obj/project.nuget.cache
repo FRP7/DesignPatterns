@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HdWRqpt4or5f3hYfGkZPVTyfThFTnnIw9dbum9Rw/5LPMVWKMvTIQWLbVLgy1uShBaiqaf0sJDDqQ5XUapVMhg==",
+  "dgSpecHash": "+0zuB1KS/CTFnSaPQC0Z0wYAw/eVI396uWk9q6/4ib4GaGyLjMhvErIcENFqC32NQ8uC0JWHkSjK/AmAvrT1eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\CompositePattern\\CompositePattern\\CompositePattern.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\CompositePattern\\CompositePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

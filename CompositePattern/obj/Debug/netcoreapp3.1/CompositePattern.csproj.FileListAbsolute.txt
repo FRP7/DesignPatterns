@@ -11,3 +11,16 @@ C:\Users\Francisco\Desktop\lusófona\C# aulas\CompositePattern\CompositePattern\
 C:\Users\Francisco\Desktop\lusófona\C# aulas\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
 C:\Users\Francisco\Desktop\lusófona\C# aulas\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
 C:\Users\Francisco\Desktop\lusófona\C# aulas\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
