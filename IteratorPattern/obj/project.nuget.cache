@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLNk329rV1rrpXDyU9gBxgde2ff9KYqwkUjW3p+HDKEMejrzo8B73pZwX1OgY4h+krPftlWeIFaym5yldpwmWQ==",
+  "dgSpecHash": "oHzXH9Z4ss5QQW5khPQftk+nJjMdRPNKCMK39BFh/VCvAbnC/9/v453L+RE6+4NiAE8xUv6ZWxOfqTn9UwDCYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\IteratorPattern.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

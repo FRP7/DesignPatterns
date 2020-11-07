@@ -11,3 +11,16 @@ C:\Users\Francisco\Desktop\lusófona\C# aulas\IteratorPattern\IteratorPattern\ob
 C:\Users\Francisco\Desktop\lusófona\C# aulas\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
 C:\Users\Francisco\Desktop\lusófona\C# aulas\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
 C:\Users\Francisco\Desktop\lusófona\C# aulas\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.exe
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.deps.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\Francisco\Documents\GitHub\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.genruntimeconfig.cache

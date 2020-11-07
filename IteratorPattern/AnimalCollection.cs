@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace IteratorPattern
 {
@@ -9,8 +10,8 @@ namespace IteratorPattern
     /// </summary>
     class AnimalCollection : IAnimalCollection
     {
-        // ArrayList de animais.
-        private ArrayList Items = new ArrayList();
+        // Lista de animais.
+        private List<Object> Items = new List<object>();
         //
 
         /// <summary>
@@ -26,7 +27,7 @@ namespace IteratorPattern
 
         // Variável de leitura para mostrar o número de animais.
         public int Count {
-            // Mostrar o número de items na ArrayList.
+            // Mostrar o número de items na Lista.
             get { return Items.Count; }
             //
         }
@@ -41,7 +42,7 @@ namespace IteratorPattern
             // Mostrar o elemento (de acordo com o index).
             get { return Items[index]; }
             //
-            // Adicionar elemento à ArrayList.
+            // Adicionar elemento à Lista.
             set { Items.Add(value); }
             //
         }

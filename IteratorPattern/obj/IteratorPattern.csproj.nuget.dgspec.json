@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\IteratorPattern.csproj": {}
+    "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\IteratorPattern.csproj": {
+    "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\IteratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
         "projectName": "IteratorPattern",
-        "projectPath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\IteratorPattern.csproj",
+        "projectPath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
         "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco\\Desktop\\lusófona\\C# aulas\\IteratorPattern\\IteratorPattern\\obj\\",
+        "outputPath": "C:\\Users\\Francisco\\Documents\\GitHub\\DesignPatterns\\IteratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
