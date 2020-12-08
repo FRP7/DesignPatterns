@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace TemplatePattern
+{
+    class Program
+    {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello World!");
+            Wolf wolf = new Wolf();
+            wolf.Hunt();
+        }
+    }
+}
